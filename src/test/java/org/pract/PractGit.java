@@ -7,6 +7,7 @@ public class PractGit {
 
 		System.out.println("100");
 		System.out.println("2");
+		System.out.println("20");
 		
 
 	}
